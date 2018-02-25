@@ -19,3 +19,6 @@ The git status command can be used to obtain a summary of which files have chang
 The git add command will not add ignored files by default. If any ignored files were explicitly specified on the command line, git add will fail with a list of ignored files. Ignored files reached by directory recursion or filename globbing performed by Git (quote your globs before the shell) will be silently ignored. The git add command can be used to add ignored files with the -f (force) option.
 
 Please see git-commit(1) for alternative ways to add content to a commit.
+
+-------------------------comments----------------------
+ My first git tracking...
